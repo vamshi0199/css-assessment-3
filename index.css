@@ -25,10 +25,10 @@
     width: 213px;
     height: 211px;
     padding: 18px 5px 19px 16px;
-    color: blueviolet;
-    box-shadow: coral 8px 8px;
+    color:black;
+    box-shadow: yellowgreen 8px 8px;
     line-height: 45px;
-
+    background-color: coral;
 }
 .image{
     border: solid red 5px;
@@ -38,8 +38,9 @@
     width: 200px;
     top: 244px;
     margin: 10px 10px 10px 10px;
-    box-shadow: coral 8px 8px;
+    box-shadow: yellowgreen 8px 8px;
     text-align: center;
+    background-color: coral;
 }
 .img{
     width: 172px;
@@ -59,8 +60,9 @@
     width: 213px;
     height: 211px;
     padding: 18px 5px 19px 16px;
-    color: blueviolet;
-    box-shadow: coral 8px 8px;
+    color: black;
+    box-shadow: yellowgreen 8px 8px;
+    background-color: coral;
 }
 .submit{
     border: solid red 5px;
@@ -70,8 +72,9 @@
     width: 200px;
     top: 544px;
     margin: 10px 10px 10px 10px;
-    box-shadow: coral 8px 8px;
+    box-shadow: yellowgreen 8px 8px;
     text-align: center;
+    background-color: coral;
 }
 .color{
     background-color: red;
